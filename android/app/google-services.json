@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1078359871583",
+    "project_id": "xyz1-6de24",
+    "storage_bucket": "xyz1-6de24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078359871583:android:45abebf236e782faa64bea",
+        "android_client_info": {
+          "package_name": "com.example.job_search_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078359871583-ro5lb71vr1629hju5p2t3g9g3252eaig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rBGYS02fPVSsQFYLzTJhFq7s5HVDNGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078359871583-ro5lb71vr1629hju5p2t3g9g3252eaig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078359871583-elntkgui1phf4914frhpm92hrm62h8vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.worknest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078359871583:android:ea2686613f77a83aa64bea",
+        "android_client_info": {
+          "package_name": "com.example.voice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078359871583-ro5lb71vr1629hju5p2t3g9g3252eaig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rBGYS02fPVSsQFYLzTJhFq7s5HVDNGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078359871583-ro5lb71vr1629hju5p2t3g9g3252eaig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078359871583-elntkgui1phf4914frhpm92hrm62h8vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.worknest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078359871583:android:147e76a098a3b359a64bea",
+        "android_client_info": {
+          "package_name": "com.example.worknest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078359871583-ro5lb71vr1629hju5p2t3g9g3252eaig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rBGYS02fPVSsQFYLzTJhFq7s5HVDNGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078359871583-ro5lb71vr1629hju5p2t3g9g3252eaig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078359871583-elntkgui1phf4914frhpm92hrm62h8vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.worknest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
