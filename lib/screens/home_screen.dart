@@ -70,7 +70,7 @@ class HomeScreen extends ConsumerWidget {
           }
         },
         backgroundColor: Colors.teal,
-        tooltip: 'Add Task via Voice',
+        tooltip: 'Add Task via Voice using To-do assistant',
         child: Icon(Icons.mic),
       ),
     );
